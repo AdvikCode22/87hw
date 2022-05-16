@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(white 0%, lightgreen 100%);
+}
+
+#myCanvas{
+    border-width: 5px;
+    background-color: antiquewhite;
+    border-color: black;
+}
